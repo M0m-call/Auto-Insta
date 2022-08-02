@@ -4,7 +4,7 @@ user_id = cl.user_id_from_username("pi_lover314")
 
 
 cl = Client()
-cl.login("pi_lover314", "Pi=2580!")
+cl.login(USERNAME,PASSWD)
 
 
 user_id = cl.user_id_from_username("pi_lover314")
