@@ -68,7 +68,7 @@ print(f"There are more than 3 : namely {checker(DIRECTORY)} jpg images")
 
 '''
 #cl = Client()
-#cl.login("pi_lover314", "Pi=2580!")
+#cl.login(USERNAME,PASS)
 
 
 save_photos(DIRECTORY,keyword,amount=5)
